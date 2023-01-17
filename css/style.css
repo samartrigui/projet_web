@@ -1,0 +1,134 @@
+* {
+    padding: 0px;
+    font-family: Century;
+    padding: 10px;
+  ;
+}
+
+body {
+
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: normal;
+    font-size: 16px;
+    font-style: normal;
+}
+
+header {
+    background-color: blanchedalmond;
+    margin: auto;
+    width: 1200px;
+}
+
+nav {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+nav a{
+    color:black;
+    text-decoration: none;
+   width: 200px;
+   text-align: center;
+   display: inline-block;
+   padding: 10px;
+   margin: 10px;
+   border: 1px solid rgba(209, 179, 6, 0.774);
+   border-radius: 15px;
+
+}
+.logo{
+    display:block;
+    margin:auto;
+}
+main{
+    width: 1200px;
+    margin:auto;
+    margin-top:2px;
+    margin-bottom:2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:16px;
+    color:black;
+    font-weight: normal;
+    font-style: normal;
+    background-color: blanchedalmond;
+}
+main image{
+    margin:2px;
+    border:5px solid blanchedalmond;
+    float:left;
+    width: 30%;
+}
+div{
+    text-align: center;
+}
+footer{
+    background-color: blanchedalmond;
+    width: 1200px;
+    margin:auto;
+}
+main p {
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    text-align: center;
+    list-style: none;
+}
+li{
+    text-align: center;
+}
+#compétences{
+    font-weight: bold;
+}
+.p{
+    text-align: center;
+    width: 70%;
+    
+}
+#profil{
+    text-align: center;
+}
+
+
+.x{
+    color:black;
+    text-decoration: none;
+    
+    display: inline-block;
+    text-align:center;
+    padding:10px;
+    margin:10px;
+    border: none;
+    border-radius:15px;
+}
+legend{
+    font-size: large;
+    font-weight: bold;
+    text-align: center; 
+}
+.introduction{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    text-align: center;
+    font-size: large;
+    
+}
+#profil1{
+    text-align: center;
+}
+.image{
+    margin:3px;
+    border:10px solid blanchedalmond;
+    box-shadow: 5px 10px 5px black;
+    width: 250px;
+    height: 250px;
+}
+.diplome{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+fieldset{
+    border:1px solid rgba(209, 179, 6, 0.774) ;
+}
